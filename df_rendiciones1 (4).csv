@@ -1,0 +1,31 @@
+Report_ID,Submission_Date,Employee,Department,Expense_Type,Description,Amount,Receipt_Attached,Approval_Status,Is_Suspicious
+1,2024-06-23,Valentino Delfina Nuñez Gonzalez,Finance,Office Supplies,expenses,22177.50,Partial,Pending,0
+2,2025-04-20,Renzo Felipe Correa Morales,Marketing,Other,expenses,29155.18,Yes,Pending,0
+3,2024-12-03,Sr(a). Valentino Morales,Marketing,Travel Expenses,purchases,42132.23,No,Pending,1
+4,2025-05-15,Thiago Benjamin Mateo Gutierrez Gimenez,Purchasing,Lunch,purchases,45249.36,Partial,Pending,0
+5,2025-01-04,Guadalupe Perez Rodriguez,Finance,Office Supplies,expenses,27938.81,Yes,Approved,0
+6,2025-02-03,Julian Tomas Campos Franco,Sales,Office Supplies,purchases,44169.76,Partial,Approved,0
+7,2024-07-20,Morena Jazmin Lopez,Finance,Transportation,purchases,35680.64,No,Rejected,1
+8,2025-02-13,Salvador Victoria Roldan,Purchasing,Travel Expenses,purchases,14257.87,No,Approved,1
+9,2024-07-04,Sr(a). Benjamin Maldonado,Finance,Office Supplies,general_expenses,8754.95,No,Pending,1
+10,2024-09-13,Milagros Federico Lopez,Finance,Other,expenses,21506.66,No,Approved,1
+11,2025-01-08,Lucas Cardozo Alvarez,Finance,Other,purchases,4388.31,Yes,Approved,0
+12,2024-08-18,Juan Pablo Ramos Alvarez,Marketing,Travel Expenses,expenses,5299.32,No,Approved,1
+13,2024-07-04,Santino Santiago Torres,Purchasing,Travel Expenses,travel_expenses,37203.45,No,Pending,1
+14,2024-07-12,Augusto Isabella Benitez Ortiz,Sales,Travel Expenses,purchases,21947.77,Partial,Approved,0
+15,2024-08-07,Priscila Pereyra,Sales,Other,general_expenses,25346.36,Partial,Rejected,1
+16,2024-11-19,Manuel Ambar Leiva,Marketing,Travel Expenses,travel_expenses,29590.42,Yes,Pending,0
+17,2025-03-27,Dr(a). Bautista Gonzalez,Finance,Transportation,expenses,32741.79,No,Rejected,1
+18,2025-06-01,Pedro Juan Cruz Benitez Dominguez,Finance,Other,general_expenses,16821.94,Partial,Rejected,1
+19,2025-03-13,Lautaro Benjamin Martinez,HR,Other,travel_expenses,21529.24,No,Pending,1
+20,2025-03-25,Mateo Benjamin Delfina Perez,Purchasing,Travel Expenses,expenses,26094.80,Yes,Rejected,1
+21,2025-03-27,Guadalupe Ramirez,Sales,Transportation,purchases,14353.34,Partial,Pending,0
+22,2024-10-17,Maria Victoria Fernandez,HR,Travel Expenses,expenses,31107.41,Partial,Rejected,1
+23,2025-05-11,Dr(a). Agustina Figueroa,Sales,Transportation,travel_expenses,22594.24,Partial,Pending,0
+24,2024-10-30,Dr(a). Benjamin Rodriguez,HR,Lunch,general_expenses,8008.51,Partial,Approved,0
+25,2024-09-30,Santino Torres,HR,Office Supplies,general_expenses,19798.37,No,Pending,1
+26,2025-03-24,Felipe Juarez Rojas,Finance,Office Supplies,expenses,45585.30,Partial,Pending,0
+27,2025-01-27,Bautista Cruz Diaz,Sales,Lunch,general_expenses,15795.41,No,Rejected,1
+28,2024-07-27,Joaquin Gonzalez,Marketing,Transportation,general_expenses,24703.29,Yes,Approved,0
+29,2024-08-02,Milena Chavez Morales,Finance,Travel Expenses,expenses,23697.40,Partial,Approved,0
+30,2024-06-03,Thiago Nicolas Medina Flores,Purchasing,Office Supplies,purchases,43436.66,Partial,Rejected,1
